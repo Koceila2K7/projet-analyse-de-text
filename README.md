@@ -30,6 +30,7 @@
 - avec un SVM on peut regarder les poids en sortie
 - discrétisation ?
     - on peut dessiner une gaussienne avec les longueurs moyennes des phrases. si on a pas une gaussienne, regarder chaque catégorie
+- méthodes de stylométrie : https://programminghistorian.org/fr/lecons/introduction-a-la-stylometrie-avec-python
     
 ## Bilan :
 dernière séance où on fera la liste de tout ce qu'on a testé pour voir pourquoi ça a marché ou cela n'a pas marché.
