@@ -1,5 +1,14 @@
-# Projet statistiques / dimanche 02 avril avant 23h59 sinon pénalité
+# Projet statistiques https://nlp-profiling.netlify.app/
+
+Pour lancer le projet 
+
+```bash
+docker run -p 8501:8501 koceila2k7/projet_koceila_nabil  
+```
+
 ## Objectif : retrouver la langue maternelle (origine) de l'auteur d'un texte écrit en anglais
+
+
 ## Plan :
 - svm vs logistic regression
 - fonction d'évaluation des modèles
